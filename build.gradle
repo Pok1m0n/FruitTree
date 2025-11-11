@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'idea'
+    id 'base'
+    id 'application'
+}
+
+group = 'net.reverend'
+version = '1.0'
+application {
+    mainClass = 'net.reverend.Main'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("org.slf4j:slf4j-api:2.0.17")
+    runtimeOnly ('org.slf4j:slf4j-simple:2.0.17')
+}
